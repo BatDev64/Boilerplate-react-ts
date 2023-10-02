@@ -1,9 +1,7 @@
-import { Title } from './components/Title'
-
 function App (): JSX.Element {
   return (
     <div>
-      <Title>My App</Title>
+      <h1>Hola mundo</h1>
     </div>
   )
 }
